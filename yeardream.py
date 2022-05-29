@@ -3,7 +3,7 @@
 # 추가 과제2 : 15의 배수일 때, yeardream
 # 나머지 모든 경우는 숫자를 그대로 출력
 
-for i in range(1, 21):
+for i in range(1, 31):
     if i % 15 == 0:
         print('yeardream')
     elif i % 3 == 0:
